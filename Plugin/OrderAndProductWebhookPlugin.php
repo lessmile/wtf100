@@ -1,5 +1,5 @@
 <?php
-namespace Vendor\Module\Plugin;
+namespace Wtfcc\Webhook\Plugin;
 
 use Magento\Sales\Model\Order;
 use Magento\Catalog\Model\Product;
